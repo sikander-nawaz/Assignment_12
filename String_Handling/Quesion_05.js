@@ -2,3 +2,9 @@
 
 // SOLUTION:
 
+let lowerCase = (str) => {
+    return str.toLowerCase();
+}
+
+let string = "ABC";
+console.log(lowerCase(string));

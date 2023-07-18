@@ -2,3 +2,9 @@
 
 // SOLUTON:
 
+function lenghtOfString(string) {
+    return string.length;
+}
+
+let str = "abcdef";
+console.log(lenghtOfString(str));

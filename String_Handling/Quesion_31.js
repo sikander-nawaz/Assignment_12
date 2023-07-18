@@ -1,0 +1,1 @@
+// Write a js program to count occurrences of a word in a given string.

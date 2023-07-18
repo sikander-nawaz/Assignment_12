@@ -1,0 +1,1 @@
+// Write a js program to find first occurrence of a character in a given string.

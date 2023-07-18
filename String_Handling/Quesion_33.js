@@ -1,0 +1,1 @@
+// Write a js program to remove last occurrence of a word in given string.

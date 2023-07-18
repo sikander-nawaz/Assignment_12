@@ -1,0 +1,1 @@
+// Write a js program to remove all occurrences of a character from string.

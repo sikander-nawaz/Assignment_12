@@ -2,6 +2,17 @@
 
 // SOLUTION:
 
-let arr = [1, 5, -7, 8, -9, 10];
-let value = arr.filter(item => item < 0);
-console.log(value);
+function negativeElement(array) {
+    let nums = [];
+    for (const num of array) {
+        if (num < 0){
+            nums.push(num);
+        }
+    }
+
+    return nums;
+};
+
+
+let arr = [-1, 2, -5, 4];
+console.log(negativeElement(arr));

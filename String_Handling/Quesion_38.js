@@ -1,0 +1,1 @@
+// Write a js program to remove all extra blank spaces from given string.

@@ -1,0 +1,1 @@
+// Write a js program to concatenate two strings.

@@ -1,0 +1,1 @@
+// Write a js program to remove first occurrence of a word from string.

@@ -5,7 +5,7 @@
 function removeLastOccurrence(str, char) {
     let lastIndex = str.lastIndexOf(char);     // It'll retuen index number.
     for (let index = 0; index < str.length; index++) {
-        if (str[index] ===char && index === lastIndex) {
+        if (str[index] === char && index === lastIndex) {
             return str.slice(0, index) + str.slice(index + 1);
         };
     };

@@ -15,7 +15,7 @@ function removeAllOccurrence(str, char) {
     }
 
     return str;
-}
+};
 
 let string = "A man with low battery and heart.";
 console.log(removeAllOccurrence(string, "a"));
